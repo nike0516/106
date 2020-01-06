@@ -1,0 +1,19 @@
+<thml>
+<head>
+<title>首頁</title>
+</head>
+<body>
+
+假日的營業時間從中午11點到晚上10點半中間沒休息<p>
+,所以假日建議錯開人潮來吃比較好唷!<br>
+<img src="01.jpg">
+
+<p>
+
+<a href="2hd.html">連到第二頁</a>
+<a href="3hd.html">連到第三頁</a>
+<a href="4hd.html">連到第四頁</a>
+<a href="5hd.html">連到第五頁</a>
+
+</body>
+</thml>

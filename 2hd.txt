@@ -1,0 +1,17 @@
+<thml>
+<head>
+<title>第二頁</title>
+</head>
+<body>
+火鍋是有收服務費10%的,最近在推開幕活動只要打卡結帳就有打9折唷!而且開鍋就有送培根牛或海草蝦(1鍋1份很不錯啊)<p>
+因為菜單很多頁我拍不完,拍了些重點而已~雙寶身高都已達要收共鍋費的標準,<p>
+<img src="02.jpg">
+
+<p>
+<a href="index.html">連到第一頁</a>
+<a href="3hd.html">連到第三頁</a>
+<a href="4hd.html">連到第四頁</a>
+<a href="5hd.html">連到第五頁</a>
+
+</body>
+</thml>

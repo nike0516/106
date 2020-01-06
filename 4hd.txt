@@ -1,0 +1,17 @@
+<thml>
+<head>
+<title>第四頁</title>
+</head>
+<body>
+價格可以從這張點餐單上看出大概,最便宜的超值鍋物大概$280~$320,<p>
+我點的鍋物肉盤大概是4.2oz就覺得很夠吃了,有點難想像30oz的份量哈哈<br>
+!我有看到店員端了好幾盤超大盤的肉片上面還做成一朵肉玫瑰花呢~<p>
+<img src="04.jpg">
+
+<a href="index.html">連到第一頁</a>
+<a href="2hd.html">連到第二頁</a>
+<a href="3hd.html">連到第三頁</a>
+<a href="5hd.html">連到第五頁</a>
+
+</body>
+</thml>
